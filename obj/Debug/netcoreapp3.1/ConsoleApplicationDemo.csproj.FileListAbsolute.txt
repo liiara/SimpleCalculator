@@ -1,0 +1,13 @@
+/home/liarabastos/ConsoleApplicationDemo/bin/Debug/netcoreapp3.1/ConsoleApplicationDemo
+/home/liarabastos/ConsoleApplicationDemo/bin/Debug/netcoreapp3.1/ConsoleApplicationDemo.deps.json
+/home/liarabastos/ConsoleApplicationDemo/bin/Debug/netcoreapp3.1/ConsoleApplicationDemo.runtimeconfig.json
+/home/liarabastos/ConsoleApplicationDemo/bin/Debug/netcoreapp3.1/ConsoleApplicationDemo.runtimeconfig.dev.json
+/home/liarabastos/ConsoleApplicationDemo/bin/Debug/netcoreapp3.1/ConsoleApplicationDemo.dll
+/home/liarabastos/ConsoleApplicationDemo/bin/Debug/netcoreapp3.1/ConsoleApplicationDemo.pdb
+/home/liarabastos/ConsoleApplicationDemo/obj/Debug/netcoreapp3.1/ConsoleApplicationDemo.csprojAssemblyReference.cache
+/home/liarabastos/ConsoleApplicationDemo/obj/Debug/netcoreapp3.1/ConsoleApplicationDemo.csproj.CoreCompileInputs.cache
+/home/liarabastos/ConsoleApplicationDemo/obj/Debug/netcoreapp3.1/ConsoleApplicationDemo.AssemblyInfoInputs.cache
+/home/liarabastos/ConsoleApplicationDemo/obj/Debug/netcoreapp3.1/ConsoleApplicationDemo.AssemblyInfo.cs
+/home/liarabastos/ConsoleApplicationDemo/obj/Debug/netcoreapp3.1/ConsoleApplicationDemo.dll
+/home/liarabastos/ConsoleApplicationDemo/obj/Debug/netcoreapp3.1/ConsoleApplicationDemo.pdb
+/home/liarabastos/ConsoleApplicationDemo/obj/Debug/netcoreapp3.1/ConsoleApplicationDemo.genruntimeconfig.cache
